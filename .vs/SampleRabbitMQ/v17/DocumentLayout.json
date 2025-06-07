@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microservices\\SampleRabbitMQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2271722F-B860-44BB-BB33-7A7DBD1C5F4D}|ConsumeRabbitMQ\\ConsumeRabbitMQ.csproj|d:\\microservices\\samplerabbitmq\\consumerabbitmq\\consumerabbitmqhostedservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2271722F-B860-44BB-BB33-7A7DBD1C5F4D}|ConsumeRabbitMQ\\ConsumeRabbitMQ.csproj|solutionrelative:consumerabbitmq\\consumerabbitmqhostedservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3514DC30-8EE7-47B4-992C-F50A88D6AD38}|RabbitMQConsumer\\RabbitMQConsumer.csproj|d:\\microservices\\samplerabbitmq\\rabbitmqconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3514DC30-8EE7-47B4-992C-F50A88D6AD38}|RabbitMQConsumer\\RabbitMQConsumer.csproj|solutionrelative:rabbitmqconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2271722F-B860-44BB-BB33-7A7DBD1C5F4D}|ConsumeRabbitMQ\\ConsumeRabbitMQ.csproj|d:\\microservices\\samplerabbitmq\\consumerabbitmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2271722F-B860-44BB-BB33-7A7DBD1C5F4D}|ConsumeRabbitMQ\\ConsumeRabbitMQ.csproj|solutionrelative:consumerabbitmq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Microservices\\SampleRabbitMQ\\ConsumeRabbitMQ\\Program.cs",
+              "RelativeDocumentMoniker": "ConsumeRabbitMQ\\Program.cs",
+              "ToolTip": "D:\\Microservices\\SampleRabbitMQ\\ConsumeRabbitMQ\\Program.cs",
+              "RelativeToolTip": "ConsumeRabbitMQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:38:44.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Microservices\\SampleRabbitMQ\\RabbitMQConsumer\\Program.cs",
+              "RelativeDocumentMoniker": "RabbitMQConsumer\\Program.cs",
+              "ToolTip": "D:\\Microservices\\SampleRabbitMQ\\RabbitMQConsumer\\Program.cs",
+              "RelativeToolTip": "RabbitMQConsumer\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T17:00:26.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsumeRabbitMQHostedServices.cs",
+              "DocumentMoniker": "D:\\Microservices\\SampleRabbitMQ\\ConsumeRabbitMQ\\ConsumeRabbitMQHostedServices.cs",
+              "RelativeDocumentMoniker": "ConsumeRabbitMQ\\ConsumeRabbitMQHostedServices.cs",
+              "ToolTip": "D:\\Microservices\\SampleRabbitMQ\\ConsumeRabbitMQ\\ConsumeRabbitMQHostedServices.cs",
+              "RelativeToolTip": "ConsumeRabbitMQ\\ConsumeRabbitMQHostedServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T16:50:25.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

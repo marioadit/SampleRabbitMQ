@@ -18,12 +18,12 @@ Console.WriteLine(" [*] Waiting for messages. To exit press CTRL+C");
 var consumer = new AsyncEventingBasicConsumer(channel);
 consumer.ReceivedAsync += async (model, ea) =>
 {
-    var body = ea.Body.ToArray();
+    byte[] body = ea.Body.ToArray();
     var message = Encoding.UTF8.GetString(body);
     Console.WriteLine($" [x] Received {message}");
 
     int dots = message.Split('.').Length - 1;
-    await Task.Delay(1000);
+    await Task.Delay(dots * 1000);
 
 
     Console.WriteLine(" [x] Done");
